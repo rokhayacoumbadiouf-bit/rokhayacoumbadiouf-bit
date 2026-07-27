@@ -1,4 +1,4 @@
-# # Hi, I'm Rokhaya Coumba Diouf
+ ## Hi, I'm Rokhaya Coumba Diouf
 
 Welcome to my GitHub!
 
