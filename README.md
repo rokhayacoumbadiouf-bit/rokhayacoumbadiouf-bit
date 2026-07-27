@@ -65,15 +65,28 @@ I enjoy learning new technologies, taking on challenges, and continuously improv
 
 ## 🚀 Projects
 
-Here are some of the projects you'll find on my GitHub.
+Here are some of the projects and repositories you'll find on my GitHub.
 
 🤖 **Artificial Intelligence**
-> Machine Learning, Data Analysis and Deep Learning projects coming soon.
+> Machine Learning, Data Analysis, Deep Learning, and AI-powered applications.
+
+🐍 **Programming & Scripting**
+> Python, C, C++, Java, and programming exercises, challenges, and personal projects.
+
+🐧 **Linux & System Administration**
+> Linux commands, shell scripting, system administration, and operating system fundamentals.
+
+💻 **Software Development**
+> Object-Oriented Programming, Software Engineering, Design Patterns, and application development.
+
+🗄️ **Databases**
+> SQL, PostgreSQL, MySQL, SQLite, database design, and management systems.
 
 📚 **University Projects**
-> Algorithms, Databases, Object-Oriented Programming and Software Engineering.
+> Coursework, algorithms, data structures, networking, operating systems, and academic assignments.
 
----
+🚀 **Personal Projects**
+> Applications and ideas built to learn, experiment, and solve real-world problems.
 
 ## 🎯 2026 Goals
 
