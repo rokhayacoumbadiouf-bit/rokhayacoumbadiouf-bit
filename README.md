@@ -78,8 +78,8 @@ Applications built to deepen my skills and explore real-world problems.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
-[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/YOUR-PROFILE](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba4277/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BbLsvYrH7TNC1vLwqU2EaQg%3D%3D))
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:rokhayacoumbadiouf@gmail.com)
 
 </div>
 
