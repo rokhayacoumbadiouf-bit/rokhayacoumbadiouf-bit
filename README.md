@@ -1,129 +1,86 @@
 <div align="center">
 
-# Hi there! 👋 I'm Rokhaya Coumba Diouf
+# Hi, I'm Rokhaya Coumba Diouf
 
-### 💻 Computer Science Student • 🤖 AI Learner • 🚀 Future AI Engineer
-
-*"Learning, building, and growing one project at a time."*
+Computer Science Student — Université Gaston Berger (Senegal)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-I'm a Computer Science student from **Senegal** with a strong interest in **Artificial Intelligence**, **Software Development**, and **Problem Solving**.
+I'm a Computer Science student in Senegal with a strong interest in artificial intelligence, software development, and algorithmic problem solving. I'm currently working toward a Master's degree in Artificial Intelligence and Big Data, with a longer-term goal of pursuing research at the intersection of AI and biology (bioinformatics, systems modeling, diagnostic support).
 
-I'm currently expanding my skills through an intensive AI program while building projects that combine technology with real-world impact.
-
-I enjoy learning new technologies, taking on challenges, and continuously improving my skills.
+I'm also active in my university's computer science club and take part in public speaking and debate competitions.
 
 ---
 
-## 🌱 Currently Learning
+## Technical Skills
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 🐍 Advanced Python
-- 🐧 Linux
-- ⚙️ MLOps
-- ☁️ Cloud Computing
+**Languages**
 
----
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 
-## 💼 Tech Stack
+**Web**
 
-### Languages
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 
-- Python
-- C
-- C++
-- Java
-- SQL
-- PHP
-- JavaScript
+**Databases**
 
-### Web
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
-- HTML
-- CSS
+**Tools**
 
-### Databases
-
-- PostgreSQL
-- MySQL
-- SQLite
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Linux
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visualstudiocode)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## Current Areas of Focus
 
-Here are some of the projects and repositories you'll find on my GitHub.
-
-🤖 **Artificial Intelligence**
-> Machine Learning, Data Analysis, Deep Learning, and AI-powered applications.
-
-🐍 **Programming & Scripting**
-> Python, C, C++, Java, and programming exercises, challenges, and personal projects.
-
-🐧 **Linux & System Administration**
-> Linux commands, shell scripting, system administration, and operating system fundamentals.
-
-💻 **Software Development**
-> Object-Oriented Programming, Software Engineering, Design Patterns, and application development.
-
-🗄️ **Databases**
-> SQL, PostgreSQL, MySQL, SQLite, database design, and management systems.
-
-📚 **University Projects**
-> Coursework, algorithms, data structures, networking, operating systems, and academic assignments.
-
-🚀 **Personal Projects**
-> Applications and ideas built to learn, experiment, and solve real-world problems.
-
-## 🎯 2026 Goals
-
-- ✅ Master Python for AI
-- ✅ Build Machine Learning projects
-- ⬜ Learn Deep Learning
-- ⬜ Learn MLOps
-- ⬜ Contribute to Open Source
-- ⬜ Build my personal portfolio
-- ⬜ Become an AI Engineer
+- Algorithms and data structures
+- Computer architecture
+- Object-oriented programming (C++)
+- Relational databases
+- Introduction to artificial intelligence and big data
 
 ---
 
-## 🌍 Beyond Coding
+## Projects
 
-When I'm away from my keyboard, you'll probably find me:
+**Programming & Exercises**
+Projects and exercises in Python, C, C++, and Java, completed as part of my coursework and personal work.
 
-🎤 Practicing public speaking or debating
+**Data Structures & Algorithms**
+Implementations and correctness proofs (AVL trees, stacks, sets, loop invariants).
 
-📖 Reading and learning something new
+**University Projects**
+Coursework covering computer architecture, networking, operating systems, and databases.
 
-🌏 Exploring different cultures
-
-🤝 Meeting new people and exchanging ideas
-
----
-
-## 💡 Motto
-
-> **"Every project is another step toward becoming the engineer I aspire to be."**
+**Personal Projects**
+Applications built to deepen my skills and explore real-world problems.
 
 ---
+
+## Contact
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
-
-*"Code with curiosity. Learn with purpose. Build with impact."*
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-PROFILE)
+[![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
+
+Feel free to reach out to discuss my projects or any collaboration opportunities.
