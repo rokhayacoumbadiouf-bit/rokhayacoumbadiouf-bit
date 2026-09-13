@@ -6,7 +6,7 @@
 
 **Université Gaston Berger — Senegal 🇸🇳**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba427/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba427/](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba4277?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 [![Email](https://img.shields.io/badge/Email-333333?style=flat\&logo=gmail\&logoColor=white)](mailto:rokhayacoumbadiouf@gmail.com)
 
 </div>
@@ -301,7 +301,7 @@ and how computational methods can contribute to areas such as **bioinformatics, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba427/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba427/](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba4277?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
 
 [![Email](https://img.shields.io/badge/Email-333333?style=flat\&logo=gmail\&logoColor=white)](mailto:rokhayacoumbadiouf@gmail.com)
 
