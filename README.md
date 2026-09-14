@@ -6,7 +6,7 @@
 
 **Université Gaston Berger — Senegal 🇸🇳**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba427/](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba4277?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba4277/)
 [![Email](https://img.shields.io/badge/Email-333333?style=flat\&logo=gmail\&logoColor=white)](mailto:rokhayacoumbadiouf@gmail.com)
 
 </div>
@@ -35,7 +35,7 @@ Beyond technology, I'm passionate about **public speaking, debate, Model United 
 
 As part of my training at **Orange Digital Center (ODC)**, I'm developing practical skills in data analysis, machine learning, artificial intelligence, and data-driven problem solving.
 
-### Areas covered
+### Areas Covered
 
 * 🐍 Python for Data Science
 * 🔢 NumPy
@@ -281,38 +281,4 @@ In the long term, I'm particularly curious about the intersection between:
 
 ### Artificial Intelligence × Biology × Data
 
-and how computational methods can contribute to areas such as **bioinformatics, biological modeling, and intelligent decision-support systems**.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Rokhaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rokhayacoumbadiouf-bit\&show_icons=true\&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rokhayacoumbadiouf-bit\&layout=compact\&hide_border=true)
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-333333?style=flat\&logo=linkedin\&logoColor=white)]([https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba427/](https://www.linkedin.com/in/rokhaya-coumba-diouf-b99ba4277?utm_source=share_via&utm_content=profile&utm_medium=member_ios))
-
-[![Email](https://img.shields.io/badge/Email-333333?style=flat\&logo=gmail\&logoColor=white)](mailto:rokhayacoumbadiouf@gmail.com)
-
-</div>
-
-Feel free to reach out if you'd like to discuss **AI, software development, data, research, public speaking, or interesting projects**.
-
----
-
-<div align="center">
-
-### Thanks for visiting my profile! ✨
-
-</div>
+and how computational methods
